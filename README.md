@@ -4,7 +4,7 @@
 <a href="https://twitter.com/Ktombow1110">
   <img align="left" alt="TonTonbow's | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://qiita.com/">
+<a href="https://qiita.com/KaitoMuraoka">
   <img align="left" alt="tontonbow's Qiita" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Qiita_Logo.svg" />
 </a>
 
