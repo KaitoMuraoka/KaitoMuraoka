@@ -21,10 +21,10 @@
 
 ## 🧑‍💻**languages and tools:**  
 
-<p align="center">
+<p align="left">
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-<a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="https://commons.wikimedia.org/wiki/File:Apple_Logo.svg#/media/File:Apple_Computer_Logo_rainbow.svg" alt="iOS" width="40" height="40"/> </a>
+<a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/TonTonbow/TonTonbow/assets/70003919/469198d1-6d2b-486d-bf24-b3d32e6eadf4" alt="iOS" width="45" height="45"/> </a>
 <a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Android_robot_head.svg" alt="Android" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
@@ -35,13 +35,10 @@ This is My [Lapras](https://scout.lapras.com/).
 
 ## 📈**my github stats**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Tontonbow&show_icons=true&theme=tokyonight" alt="TonTonbow" />
-
-
-## 🔥**Streak Status**
-
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=TonTonbow&theme=swift"></p>
-
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Tontonbow&show_icons=true&theme=tokyonight" alt="TonTonbow" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=TonTonbow&theme=swift">
+</p>
 
 ## 🕊️**Twitter**
 
