@@ -10,7 +10,7 @@ jobs:
     name: LAPRAS Card
     runs-on: ubuntu-latest
     steps:
-      - uses: TonTonbow/TonTonbow@main
+      - uses: TonTonbow/lapras-card-readme@main
         with:
           SHARE_ID: "5NOCOZE"
           ICON_FIRST: "#03102f"
