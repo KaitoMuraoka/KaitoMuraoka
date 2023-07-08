@@ -26,6 +26,8 @@
 
 ## 👤**LAPRAS**
 <!--START_SECTION:lapras-card-->
+<p ><a href="https://lapras.com/public/5NOCOZE" target="_blank" rel="noopener noreferrer"><img alt="5NOCOZEのLAPRASでのスコアは次の通りです: エンジニアリング: 3.49 / 5.0, ビジネス: 2.85 / 5.0, インフルエンス: 3.44 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.49&b=2.85&i=3.44&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=ja" width="400" ></a>  
+Last Updated on 7/8/2023, 4:04:07 PM</p>
 <!--END_SECTION:lapras-card-->
 
 ## 📈**my github stats**
