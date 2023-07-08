@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: LAPRAS Card Readme
-        uses: kawamataryo/lapras-card-readme@main
+        uses: kawamataryo/lapras-card-readme@v1.3.0
         with:
           SHARE_ID: "5NOCOZE"
           ICON_FIRST: "#03102f"
@@ -19,3 +19,8 @@ jobs:
           BACKGROUND_FIRST: "#020e27"
           BACKGROUND_SECOND: "#0e5593"
           LANG: "ja"
+          # CARD_WIDTH: "400"
+          # UPDATE_TIME: "true"
+          # README_FILE: "README.md"
+          # IS_CENTER: "true"
+          # ALTERNATIVE_TEXT: "Score of {SHARE_ID} on LAPRAS"
