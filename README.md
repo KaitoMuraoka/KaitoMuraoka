@@ -40,11 +40,10 @@ This is My [Lapras](https://scout.lapras.com/).
   <img src="http://github-readme-streak-stats.herokuapp.com?user=TonTonbow&theme=swift">
 </p>
 
-## 🕊️**Twitter**
+<!-- ## 🕊️**Twitter**
 
 <p align="center"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=Ktombow1110"></p>
 
-<!--
 **TonTonbow/TonTonbow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
