@@ -25,7 +25,8 @@
 
 
 ## 👤**LAPRAS**
-This is My [Lapras](https://scout.lapras.com/).
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
 
 ## 📈**my github stats**
 
