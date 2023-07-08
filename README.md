@@ -1,5 +1,7 @@
 ### Hi there 👋
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="310" />
+<!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="310" /> -->
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width=45% />
 
 <a href="https://twitter.com/Ktombow1110">
   <img align="left" alt="TonTonbow's | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -27,10 +29,9 @@ This is My [Lapras](https://scout.lapras.com/).
 
 ## 📈**my github stats**
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Tontonbow&show_icons=true&theme=tokyonight" alt="TonTonbow" />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=TonTonbow&theme=swift">
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Tontonbow&show_icons=true&theme=tokyonight" alt="vercel" width=50%>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=TonTonbow&theme=swift" alt="streak-stats" width=50%>
+
 
 <!-- ## 🕊️**Twitter**
 
