@@ -29,8 +29,8 @@ This is My [Lapras](https://scout.lapras.com/).
 
 ## 📈**my github stats**
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tontonbow&show_icons=true&theme=tokyonight" alt="vercel" width=50%>
-<img src="http://github-readme-streak-stats.herokuapp.com?user=TonTonbow&theme=swift" alt="streak-stats" width=50%>
+<img src="https://github-readme-stats.vercel.app/api?username=Tontonbow&show_icons=true&theme=tokyonight" alt="vercel" width=60%>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=TonTonbow&theme=swift" alt="streak-stats" width=60%>
 
 
 <!-- ## 🕊️**Twitter**
