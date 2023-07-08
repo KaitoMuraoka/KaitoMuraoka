@@ -1,20 +1,15 @@
 ### Hi there 👋
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="310" />
 
 <a href="https://twitter.com/Ktombow1110">
   <img align="left" alt="TonTonbow's | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-
 <a href="https://qiita.com/">
   <img align="left" alt="tontonbow's Qiita" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Qiita_Logo.svg" />
 </a>
 
-
 [![KTombow](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FKTombow)](https://atcoder.jp/users/KTombow)
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
-<br />
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="310" />
   
  ## 🧑‍💻**languages and tools:**  
 
