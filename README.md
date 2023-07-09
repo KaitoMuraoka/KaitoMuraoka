@@ -3,28 +3,15 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width=45% />
 
-
-<a href="https://twitter.com/Ktombow1110">
-  <img align="left" alt="TonTonbow's | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />
-</a>
-<a href="https://qiita.com/KaitoMuraoka">
-  <img align="left" alt="tontonbow's Qiita" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Qiita_Logo.svg" />
-</a>
-
+[![Twitter](https://img.shields.io/twitter/follow/Ktombow1110?style=social)](https://twitter.com/Ktombow1110 "Twitter")
+[![Contributions](https://badgen.org/img/qiita/KaitoMuraoka/contributions?style=plastic)](https://qiita.com/KaitoMuraoka)
+[![Articles](https://badgen.org/img/qiita/KaitoMuraoka/articles?style=plastic)](https://qiita.com/KaitoMuraoka)
 [![KTombow](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FKTombow)](https://atcoder.jp/users/KTombow)
+[![LAPRAS Card](https://github.com/TonTonbow/TonTonbow/actions/workflows/lapras-card.yml/badge.svg?branch=main)](https://github.com/TonTonbow/TonTonbow/actions/workflows/lapras-card.yml)
 
   
  ## 🧑‍💻**languages and tools**  
-
-<p align="left">
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-<a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/TonTonbow/TonTonbow/assets/70003919/469198d1-6d2b-486d-bf24-b3d32e6eadf4" alt="iOS" width="45" height="45"/> </a>
-<a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Android_robot_head.svg" alt="Android" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.svg" alt="git" width="60" height="40"/> </a>
-<a href="https://github.com/TonTonbow/NeoVimSetting" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="git" width="40" height="40"/> </a>
-</p>
+ [![My Skills](https://skillicons.dev/icons?i=swift,kotlin,androidstudio,py,idea,neovim,git,github,githubactions,latex,md,stackoverflow&perline=6)](https://skillicons.dev)
 
 
 ## 👤**LAPRAS**
