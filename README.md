@@ -3,15 +3,11 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width=45% />
 
-
-<a href="https://twitter.com/Ktombow1110">
-  <img align="left" alt="TonTonbow's | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />
-</a>
-<a href="https://qiita.com/KaitoMuraoka">
-  <img align="left" alt="tontonbow's Qiita" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Qiita_Logo.svg" />
-</a>
-
+[![Twitter](https://img.shields.io/twitter/follow/Ktombow1110?style=social)](https://twitter.com/Ktombow1110 "Twitter")
+[![Contributions](https://badgen.org/img/qiita/KaitoMuraoka/contributions?style=plastic)](https://qiita.com/KaitoMuraoka)
+[![Articles](https://badgen.org/img/qiita/KaitoMuraoka/articles?style=plastic)](https://qiita.com/KaitoMuraoka)
 [![KTombow](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FKTombow)](https://atcoder.jp/users/KTombow)
+[![LAPRAS Card](https://github.com/TonTonbow/TonTonbow/actions/workflows/lapras-card.yml/badge.svg?branch=main)](https://github.com/TonTonbow/TonTonbow/actions/workflows/lapras-card.yml)
 
   
  ## 🧑‍💻**languages and tools**  
