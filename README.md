@@ -1,6 +1,4 @@
 ### Hi there 👋
-<!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="310" /> -->
-
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width=45% />
 
 [![Twitter](https://img.shields.io/twitter/follow/Ktombow1110?style=social)](https://twitter.com/Ktombow1110 "Twitter")
@@ -9,7 +7,6 @@
 [![KTombow](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FKTombow)](https://atcoder.jp/users/KTombow)
 [![LAPRAS Card](https://github.com/TonTonbow/TonTonbow/actions/workflows/lapras-card.yml/badge.svg?branch=main)](https://github.com/TonTonbow/TonTonbow/actions/workflows/lapras-card.yml)
 
-  
  ## 🧑‍💻**languages and tools**  
  [![My Skills](https://skillicons.dev/icons?i=swift,kotlin,androidstudio,py,idea,neovim,git,github,githubactions,latex,md,stackoverflow&perline=6)](https://skillicons.dev)
 
@@ -24,31 +21,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tontonbow&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonTonbow&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tontonbow&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonTonbow&layout=compact&theme=tokyonight" width=36%/>
-</a>
-<a href="https://git.io/streak-stats">
-  <img align="center" src="https://streak-stats.demolab.com/?user=TonTonbow&theme=swift" />
-</a>
--->
-
-<!-- ## 🕊️**Twitter**
-
-<p align="center"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=Ktombow1110"></p>
-
-**TonTonbow/TonTonbow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍🎓**senior thesis**
+ [Behavior of Grover's algorithm when there is a deviation in the initial state](./9BSP1118_卒業論文.pdf)
