@@ -22,4 +22,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonTonbow&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 👨‍🎓**senior thesis**
- [Behavior of Grover's algorithm when there is a deviation in the initial state](./9BSP1118_卒業論文.pdf)
+ [Behavior of Grover's algorithm when there is a deviation in the initial state (Japanese)](./9BSP1118_卒業論文.pdf)
