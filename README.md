@@ -10,7 +10,7 @@
 
 
  ## 🧑‍💻**languages and tools**  
- [![My Skills](https://skillicons.dev/icons?i=swift,kotlin,androidstudio,py,idea,neovim,git,github,githubactions,latex,md,stackoverflow&perline=6)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=swift,kotlin,ruby,md,py,androidstudio,neovim,git,github,githubactions&perline=5)](https://skillicons.dev)
 
 
 ## 👤**LAPRAS**
