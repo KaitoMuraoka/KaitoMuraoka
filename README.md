@@ -6,8 +6,6 @@
 [![Articles](https://badgen.org/img/qiita/KaitoMuraoka/articles?style=plastic)](https://qiita.com/KaitoMuraoka)
 [![KTombow](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FKTombow)](https://atcoder.jp/users/KTombow)
 [![wakatime](https://wakatime.com/badge/user/65f4197e-b3f4-4b37-803d-8149179d8d0f.svg)](https://wakatime.com/@65f4197e-b3f4-4b37-803d-8149179d8d0f)
-[![LAPRAS Card](https://github.com/TonTonbow/TonTonbow/actions/workflows/lapras-card.yml/badge.svg?branch=main)](https://github.com/TonTonbow/TonTonbow/actions/workflows/lapras-card.yml)
-
 
  ## 🧑‍💻**languages and tools**  
  [![My Skills](https://skillicons.dev/icons?i=swift,kotlin,ruby,md,py,androidstudio,neovim,git,github,githubactions&perline=5)](https://skillicons.dev)
