@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/Ktombow1110?style=social)](https://twitter.com/Ktombow1110 "Twitter")
 [![Contributions](https://badgen.org/img/qiita/KaitoMuraoka/contributions?style=plastic)](https://qiita.com/KaitoMuraoka)
 [![Articles](https://badgen.org/img/qiita/KaitoMuraoka/articles?style=plastic)](https://qiita.com/KaitoMuraoka)
-[![KTombow](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FKTombow)](https://atcoder.jp/users/KTombow)
+[![KTombow](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2FKTonTonbow)](https://atcoder.jp/users/TonTonbow)
 [![wakatime](https://wakatime.com/badge/user/65f4197e-b3f4-4b37-803d-8149179d8d0f.svg)](https://wakatime.com/@65f4197e-b3f4-4b37-803d-8149179d8d0f)
 
  ## 🧑‍💻**languages and tools**  
