@@ -18,8 +18,8 @@
 
 ## 📈**my github stats**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonTonbow-KaitoMuraoka&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonTonbow-KaitoMuraoka&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaitoMuraoka&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaitoMuraoka&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 👨‍🎓**senior thesis**
  [Behavior of Grover's algorithm when there is a deviation in the initial state (Japanese)](./9BSP1118_卒業論文.pdf)
