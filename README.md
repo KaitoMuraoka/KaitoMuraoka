@@ -1,5 +1,4 @@
 ### Hi there 👋
-<img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width=45% />
 
 [![Twitter](https://img.shields.io/twitter/follow/Ktombow1110?style=social)](https://twitter.com/Ktombow1110 "Twitter")
 [![Contributions](https://badgen.org/img/qiita/KaitoMuraoka/contributions?style=plastic)](https://qiita.com/KaitoMuraoka)
@@ -8,7 +7,7 @@
 [![wakatime](https://wakatime.com/badge/user/65f4197e-b3f4-4b37-803d-8149179d8d0f.svg)](https://wakatime.com/@65f4197e-b3f4-4b37-803d-8149179d8d0f)
 
  ## 🧑‍💻**languages and tools**  
- [![My Skills](https://skillicons.dev/icons?i=swift,kotlin,ruby,md,py,androidstudio,neovim,git,github,githubactions&perline=5)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=swift,kotlin,md,androidstudio,neovim,git,github,githubactions&perline=5)](https://skillicons.dev)
 
 
 ## 👤**LAPRAS**
