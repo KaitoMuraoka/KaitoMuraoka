@@ -24,10 +24,6 @@ Everyone in Japan calls me by my nickname “とんとんぼ(Tontonbo)".
  
  [![My Skills](https://skillicons.dev/icons?i=swift,kotlin,java,flutter,lua,md)](https://skillicons.dev)
 
-## LAPRAS
-<!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/5NOCOZE" target="_blank" rel="noopener noreferrer"><img alt="5NOCOZEのLAPRASでのスコアは次の通りです: エンジニアリング: 3.82 / 5.0, ビジネス: 3.43 / 5.0, インフルエンス: 3.57 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.82&b=3.43&i=3.57&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=ja" width="400" ></a></p>
-<!--END_SECTION:lapras-card-->
 
 ## my github stats :octocat:
 
@@ -38,6 +34,12 @@ Everyone in Japan calls me by my nickname “とんとんぼ(Tontonbo)".
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KaitoMuraoka&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
+
+## LAPRAS
+<!--START_SECTION:lapras-card-->
+<p ><a href="https://lapras.com/public/5NOCOZE" target="_blank" rel="noopener noreferrer"><img alt="5NOCOZEのLAPRASでのスコアは次の通りです: エンジニアリング: 3.82 / 5.0, ビジネス: 3.43 / 5.0, インフルエンス: 3.57 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.82&b=3.43&i=3.57&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=ja" width="400" ></a></p>
+<!--END_SECTION:lapras-card-->
+
 
 ## senior thesis👨‍🎓
  [Behavior of Grover's algorithm when there is a deviation in the initial state (Japanese)](./9BSP1118_卒業論文.pdf)
