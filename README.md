@@ -1,6 +1,6 @@
 <!--<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! Nice to See you!<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>-->
 <h2><img src="./hello-nya.gif" width="30"/> Hi! Nice to See you!</h2>
-<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="45%">
+<img align='right' src="./966.gif" width="45%">
 
 
 [![Twitter](https://img.shields.io/twitter/follow/Ktombow1110?style=social)](https://twitter.com/Ktombow1110 "Twitter")
