@@ -25,7 +25,7 @@ Everyone in Japan calls me by my nickname “とんとんぼ(Tontonbo)".
  [![My Skills](https://skillicons.dev/icons?i=swift,kotlin,java,flutter,lua,md)](https://skillicons.dev)
 
 
-## my github stats :octocat:
+## My GitHub Status :octocat:
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaitoMuraoka&layout=compact&count_private=true&show_icons=true&theme=onedark" />
@@ -41,5 +41,5 @@ Everyone in Japan calls me by my nickname “とんとんぼ(Tontonbo)".
 <!--END_SECTION:lapras-card-->
 
 
-## senior thesis👨‍🎓
+## Senior Thesis👨‍🎓
  [Behavior of Grover's algorithm when there is a deviation in the initial state (Japanese)](./9BSP1118_卒業論文.pdf)
