@@ -37,7 +37,7 @@ Everyone in Japan calls me by my nickname “とんとんぼ(Tontonbo)".
 
 ## LAPRAS
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/5NOCOZE" target="_blank" rel="noopener noreferrer"><img alt="5NOCOZEのLAPRASでのスコアは次の通りです: エンジニアリング: 3.86 / 5.0, ビジネス: 3.48 / 5.0, インフルエンス: 3.61 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.86&b=3.48&i=3.61&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=ja" width="400" ></a></p>
+<p ><a href="https://lapras.com/public/5NOCOZE" target="_blank" rel="noopener noreferrer"><img alt="5NOCOZEのLAPRASでのスコアは次の通りです: エンジニアリング: 3.87 / 5.0, ビジネス: 3.48 / 5.0, インフルエンス: 3.61 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.87&b=3.48&i=3.61&b1=%23020e27&b2=%230e5593&i1=%2303102f&i2=%231688bf&l=ja" width="400" ></a></p>
 <!--END_SECTION:lapras-card-->
 
 
