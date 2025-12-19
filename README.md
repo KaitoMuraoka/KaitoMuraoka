@@ -20,9 +20,9 @@ Everyone in Japan calls me by my nickname “とんとんぼ(Tontonbo)".
 
  ### Tech Status
  
- [![My Skills](https://skillicons.dev/icons?i=apple,neovim,emacs,git,github,githubactions)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=apple,neovim,git,github,githubactions)](https://skillicons.dev)
  
- [![My Skills](https://skillicons.dev/icons?i=swift,kotlin,java,flutter,lua,md)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=swift,kotlin,go,react,lua)](https://skillicons.dev)
 
 
 ## My GitHub Status :octocat:
